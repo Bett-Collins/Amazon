@@ -18,6 +18,9 @@ li {
 .logo {
   height: 100px;
   width: 100px;
+  float: left;
+  margin-top: 10px;
+  
 }
 .Order {
   display: flex;
@@ -25,7 +28,7 @@ li {
 }
 .Order .main {
   border: solid grey;
-  padding: 120px;
+  padding: 70px;
   border-radius: 20px;
   margin: 10px;
   width: 500px;
@@ -47,7 +50,7 @@ li {
 }
 .source {
     display: flex;
-    justify-content: center;
+    justify-content: center; add 
 }
   .source .team {
     border: solid grey;
