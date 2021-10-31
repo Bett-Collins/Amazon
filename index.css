@@ -20,7 +20,7 @@ li {
   width: 100px;
   float: left;
   margin-top: 10px;
-  
+  margin-bottom: 15px;
 }
 .Order {
   display: flex;
@@ -50,7 +50,7 @@ li {
 }
 .source {
     display: flex;
-    justify-content: center; add 
+    justify-content: center; 
 }
   .source .team {
     border: solid grey;
