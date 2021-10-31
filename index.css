@@ -1,0 +1,21 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+nav {
+  overflow: hidden;
+  border: solid grey;
+}
+ul {
+  float: right;
+  margin-top: 0px;
+  font-size: 30px;
+}
+li {
+  display: inline-block;
+  padding: 15px 30px;
+}
+.logo {
+  height: 100px;
+  width: 100px;
+}
