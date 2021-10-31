@@ -19,3 +19,77 @@ li {
   height: 100px;
   width: 100px;
 }
+.Order {
+  display: flex;
+  justify-content: center;
+}
+.Order .main {
+  border: solid grey;
+  padding: 50x;
+  border-radius: 20px;
+  margin: 10px;
+  width: 500px;
+  text-align: center;
+  overflow: hidden;
+}
+.pair {
+  display: flex;
+  justify-content: center;
+}
+.pair .link { 
+  border: solid grey;
+  padding: 50x;
+  border-radius: 20px;
+  margin: 10px;
+  width: 500px;
+  text-align: center;
+  overflow: hidden;
+}
+.source {
+    display: flex;
+    justify-content: center;
+}
+  .source .team {
+    border: solid grey;
+    padding: 50x;
+    border-radius: 20px;
+    margin: 10px;
+    width: 250px;
+    text-align: center;
+    overflow: hidden;
+ }
+ .Our {
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 100px;
+   font-size: 10px;
+   font-style: normal;
+   color: black;
+  }
+.set {
+  display: flex;
+  text-align: center;
+}
+.Nit {
+   display: flex;
+}
+
+.Double {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bolder
+}
+
+.decker {
+  color: yellow;
+  font-size: 900;
+}
+.Bottom {
+  display: flex;
+}
+.Check {
+  float: right;
+}
+.File {
+  float right:
+}
