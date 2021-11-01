@@ -25,6 +25,7 @@ li {
 .Order {
   display: flex;
   justify-content: center;
+  background-color: #e1ebe6;
 }
 .Order .main {
   border: solid grey;
@@ -38,10 +39,11 @@ li {
 .pair {
   display: flex;
   justify-content: center;
+  background-color: #e1ebe6;
 }
 .pair .link { 
   border: solid grey;
-  padding: 50x;
+  padding: 40x;
   border-radius: 20px;
   margin: 10px;
   width: 500px;
@@ -51,6 +53,7 @@ li {
 .source {
     display: flex;
     justify-content: center; 
+    background-color: white;
 }
   .source .team {
     border: solid grey;
@@ -91,7 +94,7 @@ li {
 .Check {
   float: right;
 }
-.File img {
+.File left {
   display:flex;
   float:right;
   justify-content: end;
@@ -121,4 +124,9 @@ O {
 .Bur .Bur2 {
   color: #F6B400;
   font-size: 40px;
+}
+.left .img {
+  float: left;
+  clear: both;
+  display: flex;
 }
