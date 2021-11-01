@@ -19,7 +19,7 @@ li {
   height: 100px;
   width: 100px;
   float: left;
-  margin-top: 10px;
+  margin-top: 5px;
   margin-bottom: 15px;
 }
 .Order {
@@ -85,23 +85,26 @@ li {
 
 .decker {
   color: yellow;
-  font-size: 900;
-}
-.Bottom {
+  font-size: 900px
 
 }
 .Check {
   float: right;
 }
-.File {
+.File img {
+  display:flex;
   float:right;
+  justify-content: end;
 }
-logo1 {
-  float:right
+logo1 
+  float :right
 }
 h {
   text-align: center;
 }
 O {
   color: yellow;
+}
+.UL ul {
+  font-size: 20px;
 }
