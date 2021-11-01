@@ -108,3 +108,17 @@ O {
 .UL ul {
   font-size: 20px;
 }
+.Bur {
+  display: flex;
+  float: left;
+
+}
+.Bur .Bur1 {
+  color:black;
+  font-size: 40px;
+  float: left;
+}
+.Bur .Bur2 {
+  color: #F6B400;
+  font-size: 40px;
+}
