@@ -88,11 +88,13 @@ li {
 
 .decker {
   color: yellow;
-  font-size: 900px
+  font-size: 25px;
+  font-weight: bolder;
 
 }
 .Check {
-  float: right;
+float: left;
+clear: right;
 }
 .File left {
   display:flex;
@@ -101,7 +103,7 @@ li {
 }
 logo1 
   float :right
-}
+
 h {
   text-align: center;
 }
@@ -118,15 +120,24 @@ O {
 }
 .Bur .Bur1 {
   color:black;
-  font-size: 40px;
+  font-size: 70px;
   float: left;
 }
 .Bur .Bur2 {
   color: #F6B400;
-  font-size: 40px;
+  font-size: 70px;
+  float: left;
 }
 .left .img {
   float: left;
   clear: both;
   display: flex;
+}
+
+.our {
+text-align: center;
+font-size: x-large;
+}
+.menu {
+  color: #F6B400;
 }
